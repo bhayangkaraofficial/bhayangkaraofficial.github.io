@@ -8,9 +8,16 @@
 
 ###Syarat dan Ketentuan 
 #Follow Instagram [Bayangkarao Oficial](http://instagram.com/bayangkaraofficial)
-#Buat Story score terbaikmu dengan tag 1 temanmu dan tag IG bhayangkara.
+#Buat Story score terbaikmu dengan 
+
+    | tag 1 temanmu.
+    | tag instagram bhayangkara official
+#Terbuka untuk umum.
 #Periode Game mulai tanggal 18 April sampai 25 April 2021.
 #Pengumuman pemenang tanggal 1 Mei.
+
+###Salam Pramuka
+###Semangat Berpuasa
 
 |  No  |  Name  | Link  |
 |------|----------------|--------------|
