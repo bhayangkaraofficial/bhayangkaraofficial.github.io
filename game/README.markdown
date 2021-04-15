@@ -1,9 +1,23 @@
-# Color Collision
+# bhayangkaraofficial.github.io
+Tentang Pramuka
+### Table of contents
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/dev_loop/pen/gOYLbge](https://codepen.io/dev_loop/pen/gOYLbge).
+Event Game Sederhana Spesial Ramadhan.
+Menangkan Hadiahnya senilai Rp 50.000 
+untuk 1 orang pemenang dengan score terbanyak
 
-Amazing things happen when a circle is colored and a logic is applied.
-Github : https://github.com/devloop01/color-collision
+Syarat dan Ketentuan 
+Follow Instagram [Bayangkarao Oficial](http://instagram.com/bayangkaraofficial)
+Buat Story score terbaikmu dengan tag 1 temanmu dan tag IG bhayangkara
+Periode Game sampai tanggal 18 April sampai 25 April 2021
+Pengumuman pemenang tanggal 25 April.
 
-css background from -> https://leaverou.github.io/css3patterns/
+|  No  |  Name  | Link  |
+|------|----------------|--------------|
+|  01  | Game di bulan Ramadhan	  |[Lihat Halaman](https://bhayangkaraofficial.github.io/game/dist/index.html)|	         
+|  02  | 	  |[Link]()|
+|  03  | 	          |[Link]()|	 
+|  04  | 		      |[Link]()|	      
+|  05  | 			  |[Link]()|		
+
 
