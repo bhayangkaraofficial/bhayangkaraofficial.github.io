@@ -6,7 +6,7 @@
 |  01  | Game di bulan Ramadhan	  |[Lihat Halaman](https://bhayangkaraofficial.github.io/game/dist/index.html)|	         
 |  02  | 	  |[Link]()|
 
-|--------------|
+
 ### Event Game Sederhana Spesial Ramadhan.
     | Menangkan Hadiahnya senilai Rp 50.000 
     | Untuk 1 orang pemenang dengan score terbanyak
