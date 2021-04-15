@@ -1,10 +1,12 @@
 # bhayangkaraofficial.github.io
 Tentang Pramuka
 ### Table of contents
-
+ 
+ caming soon.....
+ 
 |  No  |  Name  | Link  |
 |------|----------------|--------------|
-|  01  | Game di bulan Ramadhan	  |[Lihat Halaman](https://bhayangkaraofficial.github.io/game/dist/index.html)|	         
+|  01  | 	  |[Lihat Halaman]()|	         
 |  02  | 	  |[Link]()|
 |  03  | 	          |[Link]()|	 
 |  04  | 		      |[Link]()|	      
