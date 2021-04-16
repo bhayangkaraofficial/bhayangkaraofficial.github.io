@@ -4,7 +4,7 @@
 |  No  |  Name  | Link  |
 |------|----------------|--------------|
 |  01  | Game di bulan Ramadhan	  |[Lihat Halaman](https://bhayangkaraofficial.github.io/game/dist/index.html)|	         
-|  02  | 	Follow Instagram  |[Bayangkara Oficial](http://instagram.com/bayangkaraofficial)|
+|  02  | 	Follow Instagram  |[Bayangkara Official](http://instagram.com/bayangkaraofficial)|
 
 
 ### Event Game Sederhana Spesial Ramadhan.
